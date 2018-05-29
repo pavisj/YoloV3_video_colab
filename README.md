@@ -6,4 +6,5 @@ It solves two problems
 we can run object detection on videos without display, using -dont_show option.
 
 For more info on how to install CUDNN/CuPy, look at this notebook
-https://colab.research.google.com/drive/1SP8rqOAW5Op6k8gvh3z7B6myklsiqz3g#scrollTo=bOHa-Sj8ywxn
+https://colab.research.google.com/drive/14OyDrmxzBmkJ8H51iodPE2aXHzCduKJP#scrollTo=bOHa-Sj8ywxn
+
