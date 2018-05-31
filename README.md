@@ -1,4 +1,4 @@
-# YoloV3_video_colab
+# YoloV3 on Google Colab, for videos
 This Jupyter notebook explains how to run YOLO on Google Colab, for videos. 
 It solves two problems
 - Installing CUDA on Google Colab. (Looks like Colab does not have CUDA installed!)
